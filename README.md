@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vikram Sinha</h1>
 <h3 align="center">A passionate  Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src=vikramsinha7479 proto.jpeg
-<p align="left"> <img src="[https://github.com/vikramsinha74" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/vikramsinha74](https://github.com/vikramsinha74)
 
 - ⚡ Fun fact **I am funny😅**
 
