@@ -7,7 +7,7 @@ WEB DEVELOPER
 I am a web developer with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do
 
 * 🌍  I'm based in KISHANGANJ BIHAR
-* ✉️  You can contact me at [kumarbikram7479@gmail.com](mailto:kumarbikram7479@gmail.com 7479729032)
+* ✉️  You can contact me at [kumarbikram7479@gmail.com](mailto:kumarbikram7479@gmail.com)
 * 🧠  I'm learning PYTHON JAVA DSA MY SQL PHP DSA HTML CSS
 * 🤝  I'm open to collaborating on PROJECTS
 * ⚡  Whatever work I do, I do it with all my heart.
