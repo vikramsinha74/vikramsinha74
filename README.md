@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=363536&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Piyush+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Piyush and Welcome to my Profile! animated typed out" width="100%"/>
 
-[![](https://visitcount.itsvg.in/api?id=humhainpiyush&icon=4&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vikram sinha &icon=4&color=11)](https://visitcount.itsvg.in)
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🔭 I am currently working on <b> python Dsa Html Css Php Dsa Java</b><br>🌱 I’m currently learning <b> DSA and Web Development</b><br>💬 Ask me about <strong>C and Java </strong><br>⚡ Fun fact: 
