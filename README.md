@@ -1,4 +1,4 @@
-![logo](https://github.com/vikramsinha74/vikramsinha74](https://github.com/vikramsinha74/vikramsinha74/blob/main/Red%20and%20Purple%20Gradient%20Personal%20Linkdln%20Banner.png)
+![logo](https://github.com/vikramsinha74/vikramsinha74/blob/main/Red%20and%20Purple%20Gradient%20Personal%20Linkdln%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
