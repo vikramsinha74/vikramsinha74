@@ -12,11 +12,6 @@ I AM A WEB DEVELOPER
 * 🤝  I'm open to collaborating on PROJECTS
 * ⚡  Whatever work I do, I do it with all my heart.
 
-<a href="https://www.github.com/https://github.com/vikramsinha74" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/vikramsinha74?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" /></a><a href="https://www.x.com/https://twitter.com/bikram74_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/https://twitter.com/bikram74_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a"
-/></a>
-
 ### Skills
 
 
@@ -40,10 +35,6 @@ src="https://img.shields.io/twitter/follow/https://twitter.com/bikram74_?logo=tw
 <a href="http://www.github.com/https://github.com/vikramsinha74"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/vikramsinha74&bg_color=1e3a8a&color=ffffff&line=0891b2&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/https://github.com/vikramsinha74" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/vikramsinha74&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
