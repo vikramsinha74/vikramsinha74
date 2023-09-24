@@ -31,12 +31,12 @@ src="https://img.shields.io/twitter/follow/https://twitter.com/bikram74_?logo=tw
 
 ### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/https://github.com/vikramsinha74"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/vikramsinha74&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=713f12&hide_border=true&show_icons=true" alt="https://github.com/vikramsinha74's GitHub stats" /></a>
+
+<a href="http://www.github.com/https://github.com/vikramsinha74"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/vikramsinha74&stroke=ffffff&background=713f12&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/https://github.com/vikramsinha74"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/vikramsinha74&bg_color=713f12&color=ffffff&line=0891b2&point=ffffff&area_color=713f12&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <a href="https://github.com/https://github.com/vikramsinha74" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/vikramsinha74&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/https://github.com/vikramsinha74"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
