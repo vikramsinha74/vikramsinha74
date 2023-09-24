@@ -1,4 +1,4 @@
-![logo](https://github.com/vikramsinha74/vikramsinha74/blob/main/Red%20and%20Purple%20Gradient%20Personal%20Linkdln%20Banner.png)
+![logo](https://github.com/vikramsinha74/vikramsinha74/blob/main/Red%20and%20Purple%20Gradient%20Personal%20Linkdln%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Vikram Sinha</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 WEB DEVELOPER
@@ -38,4 +38,3 @@ src="https://img.shields.io/github/followers/vikramsinha74?logo=github&style=for
 <a href="http://www.github.com/vikramsinha74"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vikramsinha74&bg_color=134e4a&color=ffffff&line=22c55e&point=ffffff&area_color=134e4a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/vikramsinha74" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsinha74&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
