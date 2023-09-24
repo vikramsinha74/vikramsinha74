@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Vikram Sinha <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/vikramsinha74" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/vikramsinha74vikram sinha 12kg-male-student-study-something-during-internet-online-courses-with-laptop-computer.jpg" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
