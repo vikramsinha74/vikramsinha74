@@ -19,6 +19,7 @@ developer that I can be and to contribute to the technology industry all that I 
 src="https://img.shields.io/github/followers/vikramsinha74?logo=github&style=for-the-badge&color=a855f7&labelColor=1e3a8a" /></a><a href="https://www.x.com/bikram74_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/bikram74_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1e3a8a"
 /></a>
+<br>![](https://komarev.com/ghpvc/?username=vikramsinha74&color=green)                                                                                                                                  
 ### Skills
 
 <p align="left">
